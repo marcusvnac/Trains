@@ -72,7 +72,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Gragh\Graph.csproj">
+    <ProjectReference Include="..\Graph\Graph.csproj">
       <Project>{c7de727e-b165-41c4-931b-c2767a8741fc}</Project>
       <Name>Graph</Name>
     </ProjectReference>
